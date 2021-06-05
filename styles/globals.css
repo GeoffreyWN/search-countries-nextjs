@@ -33,7 +33,8 @@ a {
   box-sizing: border-box;
 }
 
-ul {
+ul,
+ol {
   list-style: none;
 }
 
